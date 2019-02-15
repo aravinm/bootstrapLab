@@ -1,0 +1,33 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.circle-img {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+}
+
+.circle-img img {
+    height: 100%;
+    transform: translateX(-50%);
+    margin-left: 50%;
+}
+
+.title{
+    margin-left: 30px;
+}
+
+.panel{
+    margin-left: 5em;
+    margin-right: 10em;
+}
+
+.panel-heading p{
+    margin-top: 0.5em;
+}
